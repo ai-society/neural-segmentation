@@ -7,10 +7,10 @@ Identification of nerve structures in ultrasound images of the neck, via Convolu
 ## Dataset description
 Each dataset test/train case is described by an grayscale ultrasound image of dimensions 580px x 420px. 
 
-1. Train Set
+1. **Train Set**
    The train dataset contains 5635 cases, each case is associated to a binary B&W mask of size 580px x 420px, which establishes the position of the nerve structure in the image.
 
-2. Test Set
+2. **Test Set**
    The test set is comprised by 5508 images, without any binary masks defined.
 
 ## Dataset Download
