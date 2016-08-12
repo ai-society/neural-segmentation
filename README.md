@@ -14,7 +14,16 @@ Each dataset test/train case is described by an grayscale ultrasound image of di
    The test set is comprised by 5508 images, without any binary masks defined.
 
 ## Dataset Download
-* [Train Dataset](http://duckit.margffoy-tuay.com/static/train.zip) - *MD5 Checksum:* ```fba272da39a6bcfe7489ae6a802924bf```
-* [Test Dataset](http://duckit.margffoy-tuay.com/static/test.zip) - *MD5 Checksum:* ```1a6cb8739900b7df85f368729141274f```
+* [Train Dataset](http://duckit.margffoy-tuay.com/static/train.zip) (1.1GB) - *MD5 Checksum:* ```fba272da39a6bcfe7489ae6a802924bf```
+* [Test Dataset](http://duckit.margffoy-tuay.com/static/test.zip) (1.1GB) - *MD5 Checksum:* ```1a6cb8739900b7df85f368729141274f```
+
+## Repository clone and dataset download script
+Open a terminal in the folder that contains this repository clone and execute:
+```bash
+git clone https://github.com/GUIAUniandes/neural-segmentation.git
+cd neural-segmentation
+./init.sh
+```
+
 
 
