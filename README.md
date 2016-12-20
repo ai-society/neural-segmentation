@@ -20,7 +20,7 @@ Each dataset test/train case is described by an grayscale ultrasound image of di
 ## Repository clone and dataset download script
 Open a terminal in the folder that contains this repository clone and execute:
 ```bash
-git clone https://github.com/GUIAUniandes/neural-segmentation.git
+git clone https://github.com/ai-society/neural-segmentation.git
 cd neural-segmentation
 ./init.sh
 ```
